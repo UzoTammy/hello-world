@@ -1,1 +1,2 @@
-print('Hello world')
+hi = 'Hello World'
+print(f'{hi} we are ready to collaborate with you')
